@@ -1,3 +1,3 @@
-# FTPUPLoad
-§‚æ˜≥sµ≤FTP
-![image](https://github.com/codenamker/AsyncExcemple/blob/master/AsyncExcemple/res/drawable/JSON.jpg)
+# AnsyncTask
+JSONÊ†ºÂºèËº∏Âá∫
+![image](https://github.com/codenamker/AnsyncTask/blob/master/AsyncExcemple/app/src/main/res/drawable/JSON.PNG)
